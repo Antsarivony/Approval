@@ -37,7 +37,6 @@ jeudi Richard1 (1-2-3-4-5) ProkxIXQztLqlXdxbbvfFaKoSoIPPhHlWJK
 jeudi Andrianina ProeViWgRJVMFYHoWODisMcwzvzuZTdRfJK
 jeudi Tahiny (1-2) PropHbOplYERokatOAuGeuNFKbBCdRiJkJK
 jeudi Triomphe ProgJlapllXWzlkEezEuvaineXCrBizDEJK
-jeudi François (1) ProdFCbkNxdniusOKhEUhFWrnqZyYKqCVJK
 jeudi Torien (1) ProcSrdpGuKKidRbQHNAFBEgoTCZEusISJK
 vendredi Eduardo  ProljDgQchyZYXrEAaGvuDyOSpYwyIbrcJK
 vendredi Narovana PronWBUAqXQzVOXOislMjBpWVFcrpCCzaJK
@@ -49,11 +48,11 @@ samedi Santho ProzCnfITbYChxWcRdvaoOwLOZcRswfKYJK
 samedi Richard2 ProZabCnGILTbNodeizCCGsioyKmpwpNgJK
 samedi Ronald ProIcALkDwtOYpDtAtPNfTgRXRcTMrsYyJK
 samedi Marinoh (1) ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJK 
-samedi Fetra (1) ProciDxemOsnagKgjmDIOSuelmKbgixltJ & ProJYaJEzufWJaffkpNJYVsJkIGQvqxusJK
+samedi Fetra (1) ProciDxemOsnagKgjmDIOSuelmKbgixltJK & ProJYaJEzufWJaffkpNJYVsJkIGQvqxusJ
 samedi Flavien (1) ProshUKyuiPtuPlOEjcZLizSPfyqZqqKFJK
 samedi winner PronuxUdNEElGHhzRhDnqFbhgnwhxuOIPJK
 samedi Marolahy ProONGIxrcPGUvmlmOaJSOLPkFjoBYuNHJK
-samedi esé ProMETEdZmoAGHfIAfvraRkCYZSTBUKLKJK & PronvXRenOxSQbPehUJIxvvtrhjcRXKbNJK
+samedi jesé ProMETEdZmoAGHfIAfvraRkCYZSTBUKLKJK & PronvXRenOxSQbPehUJIxvvtrhjcRXKbNJK
 samedi denis ProJtdmCapxJpQhKjQmlJjTqeZmtKYxQqJK
 dimanche Vir Gil ProcTBilLseckXqLPwdPrIakBMRERCKmXJK
 dimanche fenofifa ProxZRxkLSOFtKewyvmRiFAjzWWvMmdQLJK
