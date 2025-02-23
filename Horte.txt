@@ -28,7 +28,6 @@ mercredi SMMTASKER (1-2-3-4-5) ProvoQohwmNBrSIfiKhmocRHorkSHOsZwJK
 mercredi lahatra (1-2) ProcThcFLnjhKfQyIEfKAEhhNUUHRouVFJK
 mercredi Serge (1-2) ProJgUwzpxAoOgkCZgTAGXTeFItDunXTMJK
 mercredi Julie (1-2) ProYpVCWHBuNqtVCpJOdRJMQEahzvvJOaJK
-mercredi Lee Rak  ProvoGOluiIVMmqZmWQNFuzWWbWLgucebJ
 jeudi Augustin ProwasvOJMjEJwXNLYETwcRBqQzRcMfAvJK
 jeudi Spart ProCHDjLEWSqMrtGfKbFaOKkkTOKQoAxEJK
 jeudi Kahil ProjAflQInbStvLdWEUGLoleFBkEDHttlJK
@@ -65,6 +64,5 @@ samedi Evalin ProLbzCXZPisgmElFYSmbeGdMyGsAsljJJK
 samedi Tsaroana ProclOXkjPCjUITbSKgvahrYIXRkRRqJhJK
 samedi Sandratriniana ProcJJPfXEVIPfsWHCqIymFbKiyyxdeGiJK
 samedi thomas  ProojwUEawBtyoQqOMNKirjWlZDgNqYKBJK
-rene ProKEljGPaYCvpPTKcZoxDCjvWgtJQWCoJ
 samedi faniry  PropYrckrYsDfPogjbQeZbrwaAMJLYHuAJK
-teste ProchxUrCgNfpRaszcBRROZXCVjHOrbHgJK
+samedi Thierry ProchxUrCgNfpRaszcBRROZXCVjHOrbHgJK
