@@ -39,7 +39,7 @@ jeudi Torien  ProcSrdpGuKKidRbQHNAFBEgoTCZEusISJK
 jeudi Octavien ProfPgQPXhBIQyPFixInIObkUNiFvedvyJK
 samedi Eduardo  ProljDgQchyZYXrEAaGvuDyOSpYwyIbrcJK
 samedi Narovana PronWBUAqXQzVOXOislMjBpWVFcrpCCzaJK
-samedi Marcel ProiEhSCoplTUWnNVizejktLlwpRcowGWJ
+samedi Marcel ProiEhSCoplTUWnNVizejktLlwpRcowGWJK
 samedi joseph  ProJneczlXsykTbCYsBdLvSjkNOTcsuQKJK
 samedi Jo Ram ProrFjXTQtOYeMEbRSWGvwSuLShDKgUHRJK
 samedi Mananjara ProtNiqSlvCbciUcJlgPXMJQIUbemogfYJK
@@ -51,7 +51,7 @@ samedi Flavien  ProjJbgsiDoZDQYBObVuYWLYZqboPdiiFJK
 samedi Marolahy ProONGIxrcPGUvmlmOaJSOLPkFjoBYuNHJK
 samedi jesé ProMETEdZmoAGHfIAfvraRkCYZSTBUKLKJK & PronvXRenOxSQbPehUJIxvvtrhjcRXKbNJK
 samedi denis ProJtdmCapxJpQhKjQmlJjTqeZmtKYxQqJK
-samedi fenofifa ProxZRxkLSOFtKewyvmRiFAjzWWvMmdQLJ
+samedi fenofifa ProxZRxkLSOFtKewyvmRiFAjzWWvMmdQLJK
 samedi Noely ProRrxmmUuFGIcAMPiyDmSAnmUCEwWMMxJ
 samedi Jou jou ProQrzZHeDCxttSCrzUVNRERdIAhBoVaIJK
 samedi Samuel ProUhBnhUQOcEOGiEkfKvDWUDIgaxYLJBJ
@@ -59,11 +59,10 @@ samedi Evalin ProLbzCXZPisgmElFYSmbeGdMyGsAsljJJK
 samedi Tsaroana ProclOXkjPCjUITbSKgvahrYIXRkRRqJhJK
 samedi Sandratriniana ProcJJPfXEVIPfsWHCqIymFbKiyyxdeGiJ
 samedi thomas  ProojwUEawBtyoQqOMNKirjWlZDgNqYKBJ
-samedi faniry  PropYrckrYsDfPogjbQeZbrwaAMJLYHuAJ
+samedi faniry  PropYrckrYsDfPogjbQeZbrwaAMJLYHuAJK
 samedi Thierry ProchxUrCgNfpRaszcBRROZXCVjHOrbHgJK
 teste ProGkEKvpLnnPBzgPSunDPTqiWyXvlvGRJK
 Marinoh ProribzCnAZDGtXiyQmHbLIqoBnQzjwmdJ
-amadou ProGkEKvpLnnPBzgPSunDPTqiWyXvlvGRJ
 mirado ProJbuxGWQjgTRdFdAsWeSoqKGJLStgBBJK
 Abel ProYCJzOszHfHXVsNmyUDEHfWZgpwwugTJ
 Kahil PronksPmTaVucQlPSDHolOWVAgheqbgNVJ
