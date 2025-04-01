@@ -20,6 +20,7 @@ lundi Martinoh ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
 lundi Dival ProageYysUjGAKzfbIJKFGJQklqKxfNhUJK
 lundi Andrian.Mar ProQxkwfyLEFYNEQsNhfVddzPcOgArKptJK
 lundi Junot ProfthuSHwkAgQjCsNhYBKFdZAhoIXCizJK
+mardi Brunel ProTtLzcOAbexFVQIMjurIFPZhuQbTsmNJK
 mardi Manjakasoa ProEKxfdYTSGHTbBCtKJhVxazOVrXLCucJ
 mardi Lahivory ProZOCYKnLLwVTTIxXDyTwoTyBwvERveNJK
 mardi Fortino ProRwiJoyFBwnGPameEZJFlwLZfyfBNhLJ
@@ -82,4 +83,3 @@ samedi Mbolatiana ProFviCYGzXuaEBTIpqZUFOHtTaiIABpVJK
 samedi Noely ProFDEtseNvHyrtRSukYZhMdzhWZgFUjFJK
 dimanche Kahil ProhaKWAgYYgHsaNQeNqVtkyAzcLFBotNJK
 teste Laraison ProMvwpmNMKdWgpPnAEtfuWPNXlnqeuEmJ
-teste Brunel ProTtLzcOAbexFVQIMjurIFPZhuQbTsmNJK
