@@ -18,7 +18,6 @@ lundi Martinoh ProJKsAEbUuPxGXyrxqThWHQPCTCMkBPMJK
 lundi Dival ProageYysUjGAKzfbIJKFGJQklqKxfNhUJ
 lundi Andrian.Mar ProCyuyDpkbtmvwVZJlqQZGzZIIYbxkkVJ
 lundi Junot ProfthuSHwkAgQjCsNhYBKFdZAhoIXCizJK
-lundi Tsinjo ProinYDxfHYbklmaQSGlgMPuDYffXchkOJ
 mardi Tojoniaina ProubxOQZafzozRJjnHTSkfWWgibGVczZJK
 mardi Farda ProLxAISkruxtFvqlyTwAANBPfYNyqDvlJ
 mardi Adelinah ProeQIflamEkiHcwVFvaMcAOLNKtjIpYCJK
@@ -80,7 +79,5 @@ samedi jonhson ProDvorWNuixVFlEfZDIXUSSXNDhLlvuQJK
 samedi Fania ProSXGUBJpSoyRTtOdxMOYJNfZcnCDPhcJK
 dimanche Kahil ProhaKWAgYYgHsaNQeNqVtkyAzcLFBotNJK
 lundi Mirado PropwzETSuULNgxHtuuQghshIlMWblVtZJK
-teste Jean Marno ProEFsIKcBaBUMDcnBGuOwyElSovFLtNNJ
-mardi Brunel ProTtLzcOAbexFVQIMjurIFPZhuQbTsmNJ
-teste Felix ProHEiQXsCACnFEjWMDGUEZDMUjcnbGyKJK
+teste Felix ProHEiQXsCACnFEjWMDGUEZDMUjcnbGyKJ
 vendredi Caussin ProtGMObzaVxUyGNbZGBokjPpGlDiigDjJK
