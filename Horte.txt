@@ -46,6 +46,8 @@ jeudi Tahiny ProqpvpLvKBtkCTipqUgAstvfxWJyNGuNJK
 jeudi Arnaud ProPkSabjMeJhAnDYRTQTVEqwxuPzgBzPJK
 jeudi Onjasento PronmkzlOCBWXOSSsFtqMtAppALuJgVIjJK
 jeudi Aldo  PronuDbUZcRtlKZByWxtNPySqphPRFeaqJK
+jeudi Sedric ProuTiWLLZHnVJWNILQvwlekRWcvbzplWJK
+jeudi khalifa PronzFouMztwHqpOoQBRtZYyOBysYLWitJK
 samedi Eduardo  ProljDgQchyZYXrEAaGvuDyOSpYwyIbrcJK
 samedi Narovana PronWBUAqXQzVOXOislMjBpWVFcrpCCzaJ
 samedi Marcel ProiEhSCoplTUWnNVizejktLlwpRcowGWJ
@@ -75,6 +77,4 @@ dimanche Kahil ProhaKWAgYYgHsaNQeNqVtkyAzcLFBotNJK
 dimanche Clerien ProqBfxFCoGbUggQnXoLyFjIbLNbzGrzzJK
 dimanche Torien  ProcSrdpGuKKidRbQHNAFBEgoTCZEusISJK
 teste Vincent ProKAEKhkbfgXCxpcVeAjoWNhDkvwwTJzJK
-teste Sedric ProuTiWLLZHnVJWNILQvwlekRWcvbzplWJK
-khalifa PronzFouMztwHqpOoQBRtZYyOBysYLWitJK
 teste Erno ProWJxptPMIMJnQwKnpbOPpMpOzKadRbOJK
