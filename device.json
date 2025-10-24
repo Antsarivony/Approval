@@ -1,0 +1,157 @@
+[
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S928B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7 Pro Build/TQ3A.230805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Google",
+    "model": "Pixel 7 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-A736B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy A73 5G"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2101K7AG Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G998B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2012K11AG Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Mi 11i"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-F946B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold5"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Pixel 6a Build/TQ3A.230805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Google",
+    "model": "Pixel 6a"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S918B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy S23 Ultra"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2102J20SG Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; LM-G850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "LG",
+    "model": "Wing 5G"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; IN2023 Build/TQ3A.230805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "OnePlus",
+    "model": "8 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; CPH2381 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Oppo",
+    "model": "Find X5 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; XQ-CT72 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Sony",
+    "model": "Xperia 1 III"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; NE2213 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Nothing",
+    "model": "Phone (2)"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; V2166 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Vivo",
+    "model": "X80 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; BE2013 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Realme",
+    "model": "X7 Max"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; LE2123 Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "OnePlus",
+    "model": "9 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; DN2103 Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "OnePlus",
+    "model": "Nord 2"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; RMX3301 Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Realme",
+    "model": "GT 2 Pro"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; KB2003 Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "OnePlus",
+    "model": "8T"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-N986B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy Note20 Ultra"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2010J19SG Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Redmi 9"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G996B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy S21+"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Pixel 5 Build/TQ3A.230805.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Google",
+    "model": "Pixel 5"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-G781B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2007J20CG Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-A536B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy A53 5G"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2101K7BG Build/TKQ1.221114.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-A336B Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Samsung",
+    "model": "Galaxy A33 5G"
+  },
+  {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; M2012K11AI Build/RKQ1.211001.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.207 Mobile Safari/537.36",
+    "brand": "Xiaomi",
+    "model": "Mi 11"
+  }
+]
