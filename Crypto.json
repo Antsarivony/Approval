@@ -1,1 +1,12 @@
-[{"Lariot08": {"Crypto_lGPgWOZQqzhMuCW": {"date_expired": "2027-07-29 11:31:07.324366"}}}, {"annonce": ""}]
+[
+  {
+    "Lariot08": {
+      "Crypto_lGPgWOZQqzhMuCW": {
+        "date_expired": "2027-07-29 11:31:07.324366"
+      }
+    }
+  },
+  {
+    "annonce": "Teste Annonce"
+  }
+]
