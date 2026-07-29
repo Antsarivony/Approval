@@ -1,1 +1,1 @@
-Luckywatch.pro|https://raw.githubusercontent.com/Antsarivony/Crypto/refs/heads/main/.lucky
+Luckywatch.pro|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.lucky
