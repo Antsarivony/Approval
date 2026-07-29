@@ -3,3 +3,4 @@ Arcade PXC|https://github.com/Antsarivony/Crypto/releases/download/Crypto/defaul
 BTC Captcher|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.btc_catcher
 Crypto Faucet|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.Crypto_faucet
 Ltc Doge Dgt|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.generator
+BitcoTask|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.bitcotask
