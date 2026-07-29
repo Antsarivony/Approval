@@ -4,3 +4,4 @@ BTC Captcher|https://github.com/Antsarivony/Crypto/releases/download/Crypto/defa
 Crypto Faucet|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.Crypto_faucet
 Ltc Doge Dgt|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.generator
 BitcoTask|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.bitcotask
+Shards|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.shards
