@@ -1,1 +1,2 @@
 Luckywatch.pro|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.lucky
+Arcade PXC|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.aracade_pxc
