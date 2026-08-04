@@ -1,7 +1,5 @@
 Luckywatch.pro|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.lucky
 Arcade PXC|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.aracade_pxc
 BTC Captcher|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.btc_catcher
-Crypto Faucet|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.Crypto_faucet
 Ltc Doge Dgt|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.generator
 BitcoTask|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.bitcotask
-Task Rewards|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.task_rewards
