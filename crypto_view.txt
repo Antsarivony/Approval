@@ -3,3 +3,4 @@ Arcade PXC|https://github.com/Antsarivony/Crypto/releases/download/Crypto/defaul
 BTC Captcher|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.btc_catcher
 Ltc Doge Dgt|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.generator
 BitcoTask|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.bitcotask
+EARNIKA|https://github.com/Antsarivony/Crypto/releases/download/Crypto/default.ernikabot
