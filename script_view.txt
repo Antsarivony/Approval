@@ -1,2 +1,3 @@
 SMMTIK|https://github.com/Antsarivony/Crypto/releases/download/Crypto/Tik
 INSTALLATION|https://github.com/Antsarivony/Crypto/releases/download/Crypto/pkg_tik.py
+INSTALLATION AMCTL|https://github.com/Antsarivony/Crypto/releases/download/Crypto/install.py
